@@ -1,0 +1,8 @@
+{
+  "name": "com.credersi.app.final-project",
+  "description": "final-project",
+  "dependencies": {
+    "@lightningjs/sdk": "^5.2.0",
+    "@lightningjs/ui": "^1.3.6"
+  }
+}
